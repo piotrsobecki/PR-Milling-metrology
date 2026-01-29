@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/signal_analysis_project.egg-info/PKG-INFO
+src/signal_analysis_project.egg-info/SOURCES.txt
+src/signal_analysis_project.egg-info/dependency_links.txt
+src/signal_analysis_project.egg-info/top_level.txt
+tests/test_processing.py
